@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/AKuzina/ml_se/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Lectures: [Anna Kuzina](https://akuzina.github.io/), [Evgenii Egorov](https://evgenii-egorov.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Class Teachers: Maria Tikhonova, Maksim Karpov, Polina Polinuna, Vadim Kokhtev
 
-### Markdown
+TAs: `TBA`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Материалы
 
-```markdown
-Syntax highlighted code block
+| Дата | Тема | Лекция | Практика| Практика (решения) |
+|-----|-----|----------|---------|-------------|
+|9 jan|Introduction|  |  |  |
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Домашние задания
 
-1. Numbered
-2. List
+| Дата публикации| Задание | Дедлайн | Формат Сдачи|
+|----------------|---------|---------|-------------|
+|      |HW 1| ||
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Полезные ссылки
 
-### Jekyll Themes
+### Python
+[Python tutorial from Stanford](https://cs231n.github.io/python-numpy-tutorial/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AKuzina/ml_se/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Numpy Tutorial from Datacamp](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
 
-### Support or Contact
+[Visual Numpy](http://jalammar.github.io/visual-numpy/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Pyplot tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)
+
+[Matplotlib gallery](https://matplotlib.org/gallery.html)
+
+### Machine Learning
+[ML playground](https://ml-playground.com/)
+
+[Visual Introduction to ML](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+[Begginer's Guide to dimensionality reduction](https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/)
+
+[Bias-variance trade-off](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
+
+[Курс по МО](https://github.com/esokolov/ml-course-hse), который читается на ПМИ
