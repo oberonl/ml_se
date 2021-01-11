@@ -22,6 +22,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |20 mar|Gradient boosting|  |   
 
 #### Practicals
+
 | Date | Topic | Materials|  
 |-----|-----|----------|
 |25-30 jan|Basic toolbox|  |
@@ -39,12 +40,12 @@ We'll be using AnyTask for grading: [course link](https://anytask.org/course/769
 
 | Date Published| Task | Deadline | 
 |----------------|---------|---------|
-|  6 feb |HW 1| 20 feb|
-|  20 feb |HW 2| 6 mar|
-|  6 mar |HW 3| 20 mar|
-|  20 mar |HW 4| 10 apr|
-|  24 apr |HW 5| 15 may|
-|  29 may |HW 6 (Optional)| 19 jun|
+|  6 feb |HW 1: `TBA`| 20 feb|
+|  20 feb |HW 2: `TBA`| 6 mar|
+|  6 mar |HW 3: `TBA`| 20 mar|
+|  20 mar |HW 4: `TBA`| 10 apr|
+|  24 apr |HW 5: `TBA`| 15 may|
+|  29 may |HW 6 (Optional): `TBA`| 19 jun|
 
 
 
