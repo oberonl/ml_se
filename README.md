@@ -1,9 +1,17 @@
 
-Lectures: [Anna Kuzina](https://akuzina.github.io/); [Evgenii Egorov](https://evgenii-egorov.github.io/)
+## Contacts
 
-Class Teachers: Maria Tikhonova, Maksim Karpov, Polina Polinuna, Vadim Kokhtev
+**Lecturers**: [Anna Kuzina](https://akuzina.github.io/); [Evgenii Egorov](https://evgenii-egorov.github.io/)
 
-TAs: `TBA`
+**Class Teachers and TAs**
+
+| Class Teachers | Contact | Group| TA (contact)|  
+|----------------|---------|------|-------|
+|Maria Tikhonova|tg: @mashkka_t|БПИ184|Alexandra Kogan (tg: @horror_in_black)|
+|Maksim Karpov|tg: @buntar29|БПИ181, БПИ182 |Victor Grishanin (tg: @vgrishanin), Kirill Bykov (tg: @darkydash)|
+|Polina Polinuna|tg: @ppolunina|БПИ185|Michail Kim (tg: @kimihailv)|
+|Vadim Kokhtev|tg: @despairazure|БПИ183|Daniil Kosakin (tg: @nieto95)|
+
 
 Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the course team anytime 
 
