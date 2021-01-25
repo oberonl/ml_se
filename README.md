@@ -1,6 +1,8 @@
 
 ## Contacts
 
+[Telegram chat](https://t.me/ml_se21)
+
 **Lecturers**: [Anna Kuzina](https://akuzina.github.io/); [Evgenii Egorov](https://evgenii-egorov.github.io/)
 
 **Class Teachers and TAs**
