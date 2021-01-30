@@ -22,7 +22,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 
 | Date | Topic | Lecture materials|  
 |-----|-----|----------|
-|30 jan|Introduction|  |   
+|30 jan|Introduction| [Slides](lectures/lecture1_intro.pdf) |   
 |6 feb|Gradient Optimization|  |   
 |13 feb|Linear Regression|  |   
 |20 feb|Linear Classification|  |   
