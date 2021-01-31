@@ -36,7 +36,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 | Date | Topic | Materials|  
 |-----|-----|----------|
 |25-30 jan|Basic toolbox| [Notebook](practicals/Seminar_1/01_HSE_PE_Intro_to_Python_v4.ipynb); [Dataset](https://drive.google.com/drive/folders/1LeZ6JutPcRELcTi198AJe2n0tvgh_AAD?usp=sharing)|
-|1-6 feb|EDA and Scikit-learn|  |
+|1-6 feb|EDA and Scikit-learn| [Notebook](practicals/Seminar_2/02_HSE_SE_EDA_v1.ipynb) |
 |8-13 feb|Calculus recap and Gradient Descent|  |
 |15-20 feb|Linear Regression|  |
 |22-27 feb|Classification|  |
