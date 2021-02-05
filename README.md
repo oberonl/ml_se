@@ -50,7 +50,7 @@ We'll be using AnyTask for grading: [course link](https://anytask.org/course/769
 
 | Date Published| Task | Deadline | 
 |----------------|---------|---------|
-|  6 feb |HW 1: `TBA`| 20 feb|
+|  6 feb |HW 1: [Notebook](hw/hw_1/task.ipynb), [dataset](hw/hw_1/titanic.csv)| 20 feb|
 |  20 feb |HW 2: `TBA`| 6 mar|
 |  6 mar |HW 3: `TBA`| 20 mar|
 |  20 mar |HW 4: `TBA`| 10 apr|
